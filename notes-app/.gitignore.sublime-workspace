@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"endl",
+				"endl\tostream"
+			],
+			[
+				"R",
+				"Ratio"
+			],
+			[
+				"exp",
+				"export"
+			],
+			[
+				"low",
+				"lower_bound"
+			],
+			[
+				"upp",
+				"upper_bound"
+			],
+			[
+				"lowe",
+				"lowerBound"
+			],
+			[
+				"upper",
+				"upperBound"
+			],
+			[
+				"serverr",
+				"ServerRespond"
+			],
+			[
+				"price",
+				"priceDEF"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"top_",
+				"top_bid_price"
+			],
+			[
+				"server",
+				"ServerRespond"
+			],
+			[
+				"ser",
+				"ServerRespond"
+			],
+			[
+				"serr",
+				"ServerRespond"
+			],
+			[
+				"pri",
+				"price_def"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"top",
+				"top_ask_price"
+			],
+			[
+				"top_as",
+				"top_ask_price"
+			],
+			[
+				"timesta",
+				"timestamp"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"set",
+				"setAttribute\t( name: DOMString, value: DOMString ): void Element"
+			],
+			[
+				"inter",
+				"interval"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"qu",
+				"quotes"
+			],
+			[
+				"as",
+				"ask_price"
+			],
+			[
+				"using",
+				"using\tnamespace"
+			],
+			[
+				"inc",
+				"includes\tfunc"
+			],
+			[
+				"em",
+				"embedsong"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"search",
+				"searchquery"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"first",
+				"firstElementChild\t: Element Document"
+			],
+			[
+				"next",
+				"nextSibling\t(): Node TreeWalker"
+			],
+			[
+				"js-",
+				"js-playlist"
+			],
+			[
+				"js-se",
+				"js-search-results"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"js",
+				"js-search"
+			],
+			[
+				"getI",
+				"getItem\t( key: DOMString ): DOMString Storage"
+			],
+			[
+				"setI",
+				"setItem\t( key: DOMString, value: DOMString ): void Storage"
+			],
+			[
+				"loca",
+				"localStorage\t: Storage Window"
+			],
+			[
+				"insert",
+				"insertBefore\t( node: Node, child: Node ): Node Node"
+			],
+			[
+				"butt",
+				"buttontext"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"image",
+				"image_img"
+			],
+			[
+				"append",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"cl",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"clas",
+				"className\t: DOMString Element"
+			],
+			[
+				"getEl",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"app",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"creat",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"repo",
+				"response"
+			],
+			[
+				"S",
+				"String\t( value: any ): String String"
+			],
+			[
+				"crea",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"se",
+				"send\t(data) XMLHttpRequest"
+			],
+			[
+				"open",
+				"open\t(method, url, async, user, password) XMLHttpRequest"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"push",
+				"pushToDOM"
+			],
+			[
+				"geet",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"funct",
+				"Function\t( paramsAndBody_..: string ): Function Function"
+			],
+			[
+				"getele",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"Quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"scrpit",
+				"script\tTag"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"usin",
+				"using\tnamespace"
+			],
+			[
+				"tree",
+				"treeToString"
+			],
+			[
+				"sco",
+				"scores"
+			],
+			[
+				"game",
+				"gamePlaying"
+			],
+			[
+				"round",
+				"roundScore"
+			],
+			[
+				"roun",
+				"roundScore"
+			],
+			[
+				"rou",
+				"roundScore"
+			],
+			[
+				"act",
+				"activePlayer"
+			],
+			[
+				"active",
+				"activePlayer"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"te",
+				"textContent\t: DOMString Node"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"dice",
+				"diceDOM"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"l",
+				"log\t( x: number ): number Math"
+			],
+			[
+				"ca",
+				"calcBMI"
+			],
+			[
+				"jo",
+				"john"
+			],
+			[
+				"ag",
+				"ageoutput"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"johnBMI"
+			],
+			[
+				"is",
+				"isBST"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"long",
+				"longestConsecutiveUtil"
+			],
+			[
+				"mi",
+				"minpal"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"h",
+				"house"
+			],
+			[
+				"pr",
+				"prob_app_unsafe"
+			],
+			[
+				"lambda",
+				"lambda33"
+			],
+			[
+				"nu",
+				"numClasses"
+			],
+			[
+				"num",
+				"numClasses"
+			],
+			[
+				"ri",
+				"risk_reject_app"
+			],
+			[
+				"pro",
+				"prob_app_unsafe"
+			],
+			[
+				"la",
+				"lambda22"
+			],
+			[
+				"p",
+				"prob_app_unsafe"
+			],
+			[
+				"risk",
+				"risk_reject_app"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"prob",
+				"prob_app_safe"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"frae",
+				"frameset\tTag"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"fo",
+				"font\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"startsum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Build With: C++ Single File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"cd \".\"",
+			"1+2",
+			"'cd .'",
+			"cd ..",
+			"cd .",
+			"html",
+			"ls",
+			"node -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aashish/jpMorgan/JPMC-tech-task-2-PY3/src/Graph.tsx",
+		"/C/Users/aashish/jpMorgan/JPMC-tech-task-2-PY3/src/App.tsx",
+		"/C/Users/aashish/jpMorgan/JPMC-tech-task-1-py3/client_test.py",
+		"/C/Users/aashish/jpMorgan/JPMC-tech-task-1-py3/client3.py",
+		"/C/Users/aashish/AppData/Roaming/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/C/Users/aashish/jpMorgan/JPMC-tech-task-2-PY3/datafeed/server3.py",
+		"/C/Users/aashish/Desktop/git-test/.git/COMMIT_EDITMSG",
+		"/C/Users/aashish/Desktop/git-test/folder.sublime-workspace",
+		"/C/Users/aashish/Desktop/git-test/proj2",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week3/SoundCloudPlayer/styles/main.css",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week3/SoundCloudPlayer/index.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week3/SoundCloudPlayer/styles/reset.css",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week3/SoundCloudPlayer/javascript/main.js",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week3/SoundCloudPlayer/styles/semantic.min.css",
+		"/C/Users/aashish/Documents/codes/js/complete-javascript-course-master/4-DOM-pig-game/starter/index.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/index.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week1/oprah/oprah.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/dom/dom",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/dom/cats.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphySearch/main.css",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphySearch/main.js",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphySearch/index.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphyTV/index.js",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphyTV/index.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week1/happyhour-simple/index.html",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week1/index1.html",
+		"/C/Users/aashish/Documents/codes/topological_sort_by_kahns_algo.cpp",
+		"/C/Users/aashish/Documents/codes/longestconsseq.cpp",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphySearch/javascript/main.js",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/GiphySearch/css/main.css",
+		"/C/Users/aashish/Desktop/javascriptOneMonth/week2/dom/mycode.htm",
+		"/C/Users/aashish/Documents/codes/cdf1.cpp",
+		"/C/Users/aashish/Documents/codes/tree.cpp",
+		"/C/Users/aashish/Documents/codes/js/complete-javascript-course-master/4-DOM-pig-game/starter/style.css",
+		"/C/Users/aashish/Documents/codes/js/complete-javascript-course-master/4-DOM-pig-game/starter/binarytreebracket.cpp",
+		"/C/Users/aashish/Documents/codes/js/complete-javascript-course-master/4-DOM-pig-game/starter/app.js",
+		"/C/Users/aashish/Documents/codes/bayesian_network.cpp",
+		"/C/Users/aashish/Documents/codes/wnn.cpp",
+		"/C/Users/aashish/Documents/codes/nextsmalpalin.cpp",
+		"/C/Users/aashish/Documents/codes/js/js basics/script.js",
+		"/C/Users/aashish/Documents/codes/js/js basics/index.htm",
+		"/C/Users/aashish/Documents/codes/riskclassification.cpp",
+		"/C/Users/aashish/Documents/codes/k-up.cpp",
+		"/C/Users/aashish/Documents/codes/noofways.cpp",
+		"/C/Users/aashish/Documents/codes/lensum.cpp",
+		"/C/Users/aashish/Documents/codes/textclassification.cpp",
+		"/C/Users/aashish/Documents/codes/k_far.cpp",
+		"/C/Users/aashish/Documents/codes/classbelongingness.cpp",
+		"/C/Users/aashish/Documents/codes/paintfence.cpp",
+		"/C/Users/aashish/Documents/codes/distinctsubsequences.cpp",
+		"/C/Users/aashish/Documents/codes/minimumpalindromiccuts.cpp",
+		"/C/Users/aashish/Documents/codes/eggdrop.cpp",
+		"/C/Users/aashish/Desktop/test.html",
+		"/C/Users/aashish/Documents/codes/bayestheorom.cpp",
+		"/C/Users/aashish/Documents/codes/cv.html",
+		"/C/Users/aashish/Documents/codes/file.html",
+		"/C/Users/aashish/Documents/codes/wordladder.cpp",
+		"/C/Users/aashish/Documents/codes/nqueen.cpp",
+		"/C/Users/aashish/Documents/codes/knighttour.cpp",
+		"/C/Users/aashish/Documents/codes/kcon.cpp",
+		"/C/Users/aashish/Documents/codes/suits.cpp",
+		"/C/Users/aashish/Documents/codes/jobs.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaanqueen.c",
+		"/C/Users/aashish/Documents/codes/pracdaasubsetsum1.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaakmp.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaarabinkarp.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaasubsetsum.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaalcs.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaaknapsackdp.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaafloydwarshell.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaamcm.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaadijkstra.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaabellman.cpp",
+		"/C/Users/aashish/Documents/codes/pracdaa",
+		"/C/Users/aashish/Downloads/lz78.cpp",
+		"/C/Users/aashish/Documents/codes/praclzw.cpp",
+		"/C/Users/aashish/Desktop/Frames_Multimedia (2)/Frames_Multimedia/lz78.cpp",
+		"/C/Users/aashish/Desktop/Frames_Multimedia (2)/Frames_Multimedia/Women.htm",
+		"/C/Users/aashish/Desktop/Frames_Multimedia (2)/Frames_Multimedia/test.htm",
+		"/C/Users/aashish/Desktop/Frames_Multimedia (2)/Frames_Multimedia/menu.htm",
+		"/C/Users/aashish/Desktop/Frames_Multimedia (2)/Frames_Multimedia/main.htm",
+		"/C/Users/aashish/Desktop/Frames_Multimedia/Child.htm",
+		"/C/Users/aashish/Documents/codes/pracstatichuff.cpp",
+		"/C/Users/aashish/Downloads/home (1).html",
+		"/C/Users/aashish/Desktop/resume.html"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".gitignore.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 197.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"big"
+			]
+		],
+		"width": 536.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
